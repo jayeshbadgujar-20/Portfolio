@@ -8,7 +8,7 @@ $(document).ready(function () {
             $('.navbar').removeClass('solid');
             $('.back-to-top').removeClass('visible');
         }
-
+             
     });
 });
 
